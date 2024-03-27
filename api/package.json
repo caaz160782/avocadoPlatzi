@@ -37,7 +37,7 @@
     "jest": "^27.0.x",
     "jest-mock-extended": "^2.0.4",
     "prisma": "3.15.2",
-    "rimraf": "^3.0.2",
+    "rimraf": "^5.0.5",
     "ts-jest": "^27.0.7"
   }
 }
